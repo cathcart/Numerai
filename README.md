@@ -1,4 +1,3 @@
-# ${1:Numerai}
 #Numerai
 My best scoring submission to [Numerai](http://www.numer.ai) round 4, a data science tournament for stock predictions.
 ## Results
